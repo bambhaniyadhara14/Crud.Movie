@@ -21,7 +21,7 @@ This project performs basic CRUD operations such as adding, viewing, searching, 
 
 Add a new movie to the database.
 
-![Add Movie](images/Add movie.png)
+![Add Movie](images/AddMovie.png)
 
 ### 2. Get All Movies
 
@@ -31,7 +31,7 @@ Add a new movie to the database.
 
 Get all movies stored in the database.
 
-![Get All Movies](images/getallMovie.png)
+![Get All Movies](images/getAllMovie.png)
 
 ### 3. Get Specific Movie
 
@@ -41,7 +41,7 @@ Get all movies stored in the database.
 
 Find a specific movie using its details.
 
-![Get Specific Movie](images/getspeMovie.png)
+![Get Specific Movie](images/getSpeMovie.png)
 
 ### 4. Update Movie
 
